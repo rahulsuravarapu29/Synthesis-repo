@@ -1,0 +1,6 @@
+com/synthesis/repository/SynthesisRepository.class
+com/synthesis/SynthesisApplication.class
+com/synthesis/controller/SynthesisController.class
+com/synthesis/service/SynthesisService.class
+com/synthesis/config/AwsSQSConfig.class
+com/synthesis/entities/User.class

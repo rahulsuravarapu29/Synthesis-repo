@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.synthesis.SynthesisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.364 s - in com.synthesis.SynthesisApplicationTests
